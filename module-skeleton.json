@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-dna-nuxt",
+  "capabilityKey": "liberusoftware/module-genealogy-dna",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-genealogy-dna-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/genealogy/nextjs/dna.md",
+  "presentationPlan": "projects/genealogy/nuxt/dna.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
